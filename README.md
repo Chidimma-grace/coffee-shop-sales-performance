@@ -146,6 +146,5 @@ The analysis suggests the following strategies:
 - Slicers
 - KPI Cards
 - Excel Formulas
-- Conditional Formatting
 
 I am open to collaboration on data analysis projects, you can reach me via email [alorgrace35@gmail.com]
