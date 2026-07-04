@@ -1,5 +1,8 @@
 # Coffee Shop Sales Trend Analysis
 
+<img width="231" height="148" alt="coffee1" src="https://github.com/user-attachments/assets/07f436bc-f09e-4fea-be74-43c4d53c6fb8" />
+
+
 ## Introduction
 
 The coffee shop industry has become highly competitive, making it essential for businesses to understand customer purchasing patterns and sales trends. Data analytics helps coffee shop managers identify peak sales periods, popular products, customer preferences, and revenue drivers for effective decision-making.
