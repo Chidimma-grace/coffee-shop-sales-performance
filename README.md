@@ -1,14 +1,12 @@
-<img width="1431" height="49" alt="image" src="https://github.com/user-attachments/assets/7d38fa9f-da6c-49e1-be31-9f4e377fd565" /><img width="1794" height="49" alt="image" src="https://github.com/user-attachments/assets/470218bb-626f-4971-a668-1c05b65b3715" /># Coffee Shop Sales Trend Analysis
+# Coffee Shop Sales Trend Analysis
 
 <img width="231" height="148" alt="coffee1" src="https://github.com/user-attachments/assets/07f436bc-f09e-4fea-be74-43c4d53c6fb8" />
-
 
 ## Introduction
 
 The coffee shop industry has become highly competitive, making it essential for businesses to understand customer purchasing patterns and sales trends. Data analytics helps coffee shop managers identify peak sales periods, popular products, customer preferences, and revenue drivers for effective decision-making.
 
 The analysis was carried out using Excel's data analysis and power bi to develop an interactive dashboard that provides clear and actionable insights into the coffee shop's operations.
-
 
 
 ## Research Objectives
