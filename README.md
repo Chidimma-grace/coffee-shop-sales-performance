@@ -6,7 +6,7 @@ The coffee shop industry has become highly competitive, making it essential for 
 
 The analysis was carried out using Excel's data analysis and power bi to develop an interactive dashboard that provides clear and actionable insights into the coffee shop's operations.
 
----
+
 
 ## Research Objectives
 
@@ -19,7 +19,6 @@ The objectives of this project are to:
 - Examine monthly sales trends.
 - Provide data-driven recommendations for improving sales and profitability.
 
----
 
 ## Research Questions
 
@@ -32,7 +31,7 @@ The objectives of this project are to:
 7. How did sales change over the analysis period?
 8. What strategies can improve coffee shop sales?
 
----
+
 
 ## Analysis and Findings
 
@@ -46,7 +45,7 @@ A Pivot Table was used to calculate the sum of all sales values, and the result 
 
 The Total Revenue KPI provides an overview of the coffee shop's financial performance during the analysis period and serves as the primary indicator of business success.
 
----
+
 
 ## 2. How many customer transactions were completed?
 
@@ -58,7 +57,7 @@ A Pivot Table was used to count the total number of transaction records, which w
 
 The Total Transactions KPI measures customer purchase activity and indicates the overall transaction volume during the study period.
 
----
+
 
 ## 3. What is the total quantity of products sold?
 
@@ -70,7 +69,7 @@ A Pivot Table was used to sum the Quantity field, and the result was displayed a
 
 The Total Quantity Sold KPI reflects the overall demand for products and provides insight into customer purchasing behavior.
 
----
+
 
 ## 4. What is the average sales value?
 
@@ -82,7 +81,7 @@ The Average function in a Pivot Table was used to calculate the average sales am
 
 The Average Sales KPI shows the average revenue generated and serves as an indicator of the business's sales performance.
 
----
+
 
 ## 5. Which products generated the highest revenue?
 
@@ -94,7 +93,7 @@ A Pivot Table summarized revenue by product, while a bar chart was used to rank 
 
 The analysis identified the coffee shop's top-performing products, enabling management to focus inventory planning, promotions, and pricing strategies on products that contribute the most revenue.
 
----
+
 
 ## 6. Which product categories performed best?
 
@@ -106,7 +105,7 @@ Sales revenue was grouped by product category using a Pivot Table and visualized
 
 The analysis revealed which product categories generated the highest revenue, helping management understand customer preferences and allocate resources more effectively.
 
----
+
 
 ## 7. How did sales change over the analysis period?
 
@@ -118,7 +117,6 @@ Monthly sales were summarized using a Pivot Table and displayed with a line char
 
 The monthly trend analysis highlighted periods of increased and decreased sales, providing valuable insight into seasonal demand and overall business performance.
 
----
 
 ## 8. What strategies can improve coffee shop sales?
 
@@ -136,22 +134,6 @@ The analysis suggests the following strategies:
 - Monitor monthly sales trends to support business planning.
 - Use dashboard insights for continuous performance monitoring and decision-making.
 
----
-
-##  Dashboard Overview
-
-The interactive dashboard includes:
-
--  Total Revenue
--  Total Transactions
--  Total Quantity Sold
--  Average Sales
--  Monthly Sales Trend
--  Product Performance Analysis
--  Product Category Analysis
-
-
----
 
 ## Tools Used
 
@@ -163,8 +145,4 @@ The interactive dashboard includes:
 - Excel Formulas
 - Conditional Formatting
 
----
-
-
-
-⭐ If you found this project useful, consider giving it a star.
+I am open to collaboration on data analysis projects, you can reach me via email [alorgrace35@gmail.com]
